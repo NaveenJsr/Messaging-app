@@ -26,19 +26,3 @@ npm install
 npm run start
 
 ```
-
-## Screenshots -
-
-### Auth
-
-!["Login"](./screenshot/login.jpg)
-
-!["Register](./screenshot/register.jpg)
-
-### Dashboard
-
-!["chat"](./screenshot/chat.jpg)
-
-!["dashboard"](./screenshot/dashboard.jpg)
-
-!["addMember"](./screenshot/addMember.jpg)
